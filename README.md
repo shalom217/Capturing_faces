@@ -7,3 +7,7 @@ AI enables us to capture the faces appeared in the footage automatically and rem
 Just upload the video on Tkinter based API and let the video play, after the end of video it will display the no. of people and saves all the faces appeared in that video file in a directory.
 Live face capturing option is also available.
 System uses Tkinter, Open Cv, Python 3.7 or higher.
+![alt text](https://github.com/shalom217/Capturing_faces/blob/master/Screenshot_3.png)
+![alt text](https://github.com/shalom217/Capturing_faces/blob/master/Screenshot_1.png)
+![alt text](https://github.com/shalom217/Capturing_faces/blob/master/Screenshot_2.png)
+![alt text](https://github.com/shalom217/Capturing_faces/blob/master/Screenshot_4.png)
